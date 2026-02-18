@@ -129,20 +129,6 @@ These queries helped extract structured insights before visualization.
 
 ---
 
-## 📂 Project Structure
-
-```
-Apple-iTunes-Data-Analysis/
-│
-├── SQL_Queries.sql
-├── PowerBI_Dashboard.pbix
-├── Report.pdf
-├── Dataset/
-└── README.md
-```
-
----
-
 ## 🚀 How to Use This Project
 
 1. Import CSV files into PostgreSQL.
@@ -165,4 +151,4 @@ Apple-iTunes-Data-Analysis/
 ## 👨‍💻 Author
 
 **Adithya Vinod**
-Computer Engineering Student
+
